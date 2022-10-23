@@ -1,46 +1,62 @@
-# Proyecto GoScrum 🧑‍🔧
+# Proyecto GoScrum | Challenge Alkemy 🧑‍🔧
 ---
 ## 🖥️ Tecnologías Utilizadas:
 
-- 
-- 
-- 
-- 
--  </br>
+- Mobile First
+- Formik, Yup
+- React Router Dom V6
+- Framer Motion
+- Postman, UUID, Material UI
+- React-toastify, SweetAlert2, React Loading Skeleton
+- Redux
+- Testing Library, Mock Service Worker
+- Git, GitHub, SDKs </br>
 ---
 ## Comandos 🧑‍💻
 
 ### Instalar dependencias
 
 npm install
----
-
-![Vista Home](Assets/e-ecommerce.png)
 
 ---
 
-![Vista Administrador](Assets/e-ecommerce2.png)
+![Vista Registro](public/img/register.png)
 
 ---
 
-![Vista Mobile](Assets/e-ecommerce3.png)
+![Vista Login](public/img/login.png)
 
 ---
 
-![Vista Agregar Producto ](Assets/e-ecommerce4.png)
+![Vista Crear Tarea](public/img/crear_tarea.png)
 
 ---
 
-![Vista Login](Assets/e-ecommerce5.png)
-# 🔍 Recursos de la API
+![Vista Mobile First](public/img/mobile_first.png)
 
-## Con la siguiente URL podrán acceder a la API pública del proyecto → 
+---
+
+![Vista Credenciales Invalidas](public/img/credenciale_invalidas.png)
+
+---
+
+![Vista Error Petición](public/img/error_petición.png)
+
+---
+
+![Vista Page 404](public/img/page_404.png)
+
+---
+
+## 🔍 Recursos de la API
+
+Con la siguiente URL podrán acceder a la API pública del proyecto → 
 ### [Ver Pagina](https://goscrum-api.alkemy.org/) 👈
 
-## En el siguiente link podrán acceder a la Colección para Postman → 
+En el siguiente link podrán acceder a la Colección para Postman → 
 ### [Ver Pagina](https://drive.google.com/file/d/1ct4hRm_3jkYGXGTjQhhp0I8zWOYVnhnF/view/) 👈 
 
-## ⚠️ IMPORTANTE: Es necesario reemplazar en cada request de Postman localhost por la URL de la API ⚠️
+#### ⚠️ IMPORTANTE: Es necesario reemplazar en cada request de Postman localhost por la URL de la API ⚠️
 ---
 ## ⬇️ Download
 
@@ -75,5 +91,3 @@ npm install
 </p>
 
 2 - La segunda opción es descargar el código en un paquete <strong>"zipado"</strong> y extraer la carpeta a tu computadora.
-</br></br>
----
