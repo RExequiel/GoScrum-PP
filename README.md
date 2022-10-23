@@ -10,7 +10,7 @@
 - React-toastify, SweetAlert2, React Loading Skeleton
 - Redux
 - Testing Library, Mock Service Worker
-- Git, GitHub, SDKs </br>
+- SDKs </br>
 ---
 ## Comandos 🧑‍💻
 
